@@ -8,8 +8,8 @@ This is my solution to the [Four card feature section challenge on Frontend Ment
 
 
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [GitHub](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/four-card-section-dvqlujxPdW)
+- Live Site URL: [GitHub](https://kalebemax.github.io/four-card-feature-section-master/)
 
 
 
