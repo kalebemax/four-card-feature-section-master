@@ -18,6 +18,5 @@ This is my solution to the [Four card feature section challenge on Frontend Ment
 - Semantic HTML5 markup
 - CSS custom properties
 - Tailwindcss
-- Javascript
 - Flexbox
 - Mobile-first workflow
